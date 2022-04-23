@@ -52,7 +52,7 @@ export const GlobalStyle = createGlobalStyle `
 
 [disable] {
     opacity: 0.6;
-    cursor: not-allowed;
+    cursor: not-allowed;        
 }
 
 .react-modal-overlay {
